@@ -3,14 +3,18 @@ layout: page
 ---
 
 # About Me
+# Yuzhi Chen
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Yuzhi Chen (陈芋志)**.
 
 I am a senior undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+IYuzhi Chen received the master’s degree in transportation engineering with Guilin University of Electronic Technology. He is currently pursuing a Ph.D. degree in Communication and Transportation Engineering at Southeast University, under the supervision of [Prof. Chen Wang](https://trmetagroup.github.io/team/ChenWang) and [Dr. Yuanchang Xie](https://www.uml.edu/engineering/civil-environmental/faculty/xie-yuanchang.aspx). His research interests include intelligent transportation systems, connected and automated driving, crash risk measure, risky driving behavior and safety, big data mining and analysis.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *y.z.chen.fhy@gmail.com*
 
 ## Academic Background
 
