@@ -13,22 +13,19 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+- **Sep 2022 - Future：**Southeast University, Ph.D., Communication and Transportation Engineering
+- **Sep 2019 - June 2022:** Guilin University of Electronic Technology, Mater, Transportation Engineering
+- **Sep 2015 - June 2019:** Yangzhou University, Bachelor, Traffic Engineering
 
 ---
 
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Intelligent Transportation systems
+- Connected and Automated Vehicle
+- Crash Risk Measure and Driver Behavior
+- Big data Mining and Analysis
+- [My latest research proposal (April 2024)](https://doi.org/10.1016/j.amar.2024.100333)🔗
 
 ---
 
