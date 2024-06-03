@@ -24,7 +24,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Intelligent Transportation systems
 - Connected and Automated Vehicle
 - Crash Risk Measure and Driver Behavior
-- Big data Mining and Analysis
+- Big Data Mining and Analysis
 - [My latest research proposal (April 2024)](https://doi.org/10.1016/j.amar.2024.100333)🔗
 
 ---
