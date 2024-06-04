@@ -29,16 +29,16 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ---
 
-## News and Updates
+## Projects
 
-- **May 2024：**My undergraduate thesis won the Best Project Award (Top 1/300) 🎉
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+**Tsinghua-Toyota Automated Driving Project**: The traffic accident detection and report of automated vehicles at Lv4 level
+**National Natural Science Foundation of China**: Risk evaluation technology of human-computer driving intelligent vehicle under complex traffic environment (No. 52262047)
+**Specific Research Project of Guangxi for Research Bases and Talents**: Intelligent control technology of urban traffic based on the deep integration of big data (No. AD20159035)
+**Natural Science Foundation of Guangxi Province**: Risky driving behavior of electric bicycles in sophisticated road traffic environment (No. 2020GXNSFAA159153)
+**Traffic impact assessment of the control plan of Guilin China Resources Phase II site of CR Land South China Region**
+**Industry Standards at Provincial and Ministerial Levels: Urban public transport stations construction standards**
+**An Innovative Entrepreneurship Training Program for university students in Jiangsu Province** (No.201811117082X)
+**Innovation Project of GUET Graduate Education**: Driver risk perception in an intelligent vehicle-road collaborative context. (No.2020YCXS121)
+**Postgraduate Research & Practice Innovation Program of Jiangsu Province**: Risk Identification and Hierarchical Collaborative Intervention for Intelligent Vehicles Considering Human-Machine Co-Driving States(No. KYCX23_0306)
 
 
