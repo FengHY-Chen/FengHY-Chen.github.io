@@ -6,8 +6,8 @@ title: Publications
 
 > Lastest Update: 6th June 2024&nbsp;  [中文版本 (Chinese Version)](https://fenghy-chen.github.i/file/publications-zh/)
 
-## > Journal Paper
-
+## Journal Paper
+---
 - **Chen, Y.**, Wang, C., & Xie, Y. [(2024)](https://doi.org/10.1016/j.amar.2024.100333). Modeling the risk of single-vehicle run-off-road crashes on horizontal curves using connected vehicle data. **_Analytic Methods in Accident Research_**, 43, 100333.
 - **Chen, Y.**, Wang, T., Yan, X., & Wang, C. [(2022)](https://doi.org/10.1109/MITS.2022.3163506). An ensemble optimization strategy for dynamic parking-space allocation. **_IEEE Intelligent Transportation Systems Magazine__*, 15(1), 347-362.
 - Wang, T., **Chen, Y.**, Yu, J., & Xie, S. [(2021)](https://doi.org/10.1109/ACCESS.2021.3108039). Formation mechanisms and clustering differences in risky riding behaviors of electric bike riders. **_IEEE Access_**, 9, 119712-119721.
@@ -18,19 +18,14 @@ title: Publications
 - Zhou, W., Zhao, L., Huang, H., **Chen, Y.**, Xu, S., & Wang, C. [(2023)](https://doi.org/10.1016/j.engappai.2023.105865). Automatic waste detection with few annotated samples: improving waste management efficiency. **_Engineering Applications of Artificial Intelligence_**, 120, 105865.
 - Liu, Y., Wang, C., Xu, S., Zhou, W., & **Chen, Y.** [(2023)](https://doi.org/10.1007/s00521-023-08519-8). Multi-weighted graph 3D convolution network for traffic prediction. **_Neural Computing and Applications_**, 35(20), 15221-15237.
 - Yuan, Q., Xu, X., Wang, T., & **Chen, Y.** [(2022)](https://doi.org/10.1108/JICV-04-2022-0012). Investigating safety and liability of autonomous vehicles: Bayesian random parameter ordered probit model analysis. **_Journal of intelligent and connected vehicles_**, 5(3), 199-205.
-
 <br>
 
----
-
 ## Conference Paper
-- **Chen, Y. Z.**, Wang, T., Xie, L., Shi, D., & Wang, C. L. [(2020)](https://ascelibrary.org/doi/abs/10.1061/9780784483053.372). Safety Evaluation of Bus Running State Based on Multi-Source Data. In CICTP 2020 (pp. 4473-4485).
-- Shi, D., Wang, T., **Chen, Y.**, & Liu, C. [(2021)](https://doi.org/10.1007/978-981-19-2259-6_88). Exploring the effects of request time, secondary task, and take-over mode on take-over performance. In International Conference on Intelligent Transportation Engineering (pp. 1001-1014). Singapore: Springer Nature Singapore.
+---
+- **Chen, Y. Z.**, Wang, T., Xie, L., Shi, D., & Wang, C. L. [(2020)](https://ascelibrary.org/doi/abs/10.1061/9780784483053.372). Safety Evaluation of Bus Running State Based on Multi-Source Data. In **_CICTP 2020 _**(pp. 4473-4485).
+- Shi, D., Wang, T., **Chen, Y.**, & Liu, C. [(2021)](https://doi.org/10.1007/978-981-19-2259-6_88). Exploring the effects of request time, secondary task, and take-over mode on take-over performance. In **_International Conference on Intelligent Transportation Engineering_** (pp. 1001-1014). Singapore: Springer Nature Singapore.
+<br>
 
-
-- Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024.
-
-  <br>
 
 
 ---
