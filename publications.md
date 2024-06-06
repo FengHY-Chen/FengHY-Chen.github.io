@@ -18,44 +18,14 @@ title: Publications
 - Zhou, W., Zhao, L., Huang, H., **Chen, Y.**, Xu, S., & Wang, C. [(2023)](https://doi.org/10.1016/j.engappai.2023.105865). Automatic waste detection with few annotated samples: improving waste management efficiency. **_Engineering Applications of Artificial Intelligence_**, 120, 105865.
 - Liu, Y., Wang, C., Xu, S., Zhou, W., & **Chen, Y.** [(2023)](https://doi.org/10.1007/s00521-023-08519-8). Multi-weighted graph 3D convolution network for traffic prediction. **_Neural Computing and Applications_**, 35(20), 15221-15237.
 - Yuan, Q., Xu, X., Wang, T., & **Chen, Y.** [(2022)](https://doi.org/10.1108/JICV-04-2022-0012). Investigating safety and liability of autonomous vehicles: Bayesian random parameter ordered probit model analysis. **_Journal of intelligent and connected vehicles_**, 5(3), 199-205.
-<br>
+
+ <br>
 
 ## Conference Paper
 ---
 - **Chen, Y. Z.**, Wang, T., Xie, L., Shi, D., & Wang, C. L. [(2020)](https://ascelibrary.org/doi/abs/10.1061/9780784483053.372). Safety Evaluation of Bus Running State Based on Multi-Source Data. In **_CICTP 2020_** (pp. 4473-4485).
 - Shi, D., Wang, T., **Chen, Y.**, & Liu, C. [(2021)](https://doi.org/10.1007/978-981-19-2259-6_88). Exploring the effects of request time, secondary task, and take-over mode on take-over performance. In **_International Conference on Intelligent Transportation Engineering_** (pp. 1001-1014). Singapore: Springer Nature Singapore.
+
 <br>
 
 
-
----
-
-## Thesis (FYP)
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Best Project Award (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at [China Huading Tech](http://www.hdim.com.cn/) and [IIoT Lab](https://dqxy.fzu.edu.cn/en/)<br>
-
-  <br>
-
----
-
-## Manuscript
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classification Machine Learning Techniques<br>
-
-- Multi-objective Optimization Model Based on Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
-
-  <br>
-
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium-program/))<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior year course design, early project.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
-
-  <br>
