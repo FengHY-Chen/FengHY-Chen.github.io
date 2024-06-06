@@ -9,7 +9,7 @@ title: Publications
 ## Journal Paper
 ---
 - **Chen, Y.**, Wang, C., & Xie, Y. [(2024)](https://doi.org/10.1016/j.amar.2024.100333). Modeling the risk of single-vehicle run-off-road crashes on horizontal curves using connected vehicle data. **_Analytic Methods in Accident Research_**, 43, 100333.
-- **Chen, Y.**, Wang, T., Yan, X., & Wang, C. [(2022)](https://doi.org/10.1109/MITS.2022.3163506). An ensemble optimization strategy for dynamic parking-space allocation. **_IEEE Intelligent Transportation Systems Magazine__*, 15(1), 347-362.
+- **Chen, Y.**, Wang, T., Yan, X., & Wang, C. [(2022)](https://doi.org/10.1109/MITS.2022.3163506). An ensemble optimization strategy for dynamic parking-space allocation. **_IEEE Intelligent Transportation Systems Magazine_**, 15(1), 347-362.
 - Wang, T., **Chen, Y.**, Yu, J., & Xie, S. [(2021)](https://doi.org/10.1109/ACCESS.2021.3108039). Formation mechanisms and clustering differences in risky riding behaviors of electric bike riders. **_IEEE Access_**, 9, 119712-119721.
 - Wang, T., **Chen, Y.**, Yan, X., Chen, J., & Li, W. [(2020)](https://doi.org/10.1155/2020/9743504). The Relationship between Bus Drivers' Improper Driving Behaviors and Abnormal Vehicle States Based on Advanced Driver Assistance Systems in Naturalistic Driving. **_Mathematical Problems in Engineering_**.
 - Wang, T., **Chen, Y.**, Yan, X., Li, W., & Shi, D. [(2020)](https://doi.org/10.1109/ACCESS.2020.3016834). Assessment of drivers’ comprehensive driving capability under man-computer cooperative driving conditions. **_IEEE Access_**, 8, 152909-152923.
@@ -22,7 +22,7 @@ title: Publications
 
 ## Conference Paper
 ---
-- **Chen, Y. Z.**, Wang, T., Xie, L., Shi, D., & Wang, C. L. [(2020)](https://ascelibrary.org/doi/abs/10.1061/9780784483053.372). Safety Evaluation of Bus Running State Based on Multi-Source Data. In **_CICTP 2020 _**(pp. 4473-4485).
+- **Chen, Y. Z.**, Wang, T., Xie, L., Shi, D., & Wang, C. L. [(2020)](https://ascelibrary.org/doi/abs/10.1061/9780784483053.372). Safety Evaluation of Bus Running State Based on Multi-Source Data. In **_CICTP 2020_** (pp. 4473-4485).
 - Shi, D., Wang, T., **Chen, Y.**, & Liu, C. [(2021)](https://doi.org/10.1007/978-981-19-2259-6_88). Exploring the effects of request time, secondary task, and take-over mode on take-over performance. In **_International Conference on Intelligent Transportation Engineering_** (pp. 1001-1014). Singapore: Springer Nature Singapore.
 <br>
 
