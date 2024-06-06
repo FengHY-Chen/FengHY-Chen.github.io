@@ -8,8 +8,8 @@ title: Publications
 
 ## Journal Paper
 
-- **Chen, Y.**, Wang, C., & Xie, Y. (2024)(https://doi.org/10.1016/j.amar.2024.100333). Modeling the risk of single-vehicle run-off-road crashes on horizontal curves using connected vehicle data. Analytic Methods in Accident Research, 43, 100333.
-
+- **Chen, Y.**, Wang, C., & Xie, Y. [(2024)](https://doi.org/10.1016/j.amar.2024.100333). Modeling the risk of single-vehicle run-off-road crashes on horizontal curves using connected vehicle data. Analytic Methods in Accident Research, 43, 100333.
+- Wang, T., Yu, J., **Chen, Y.**, Ma, C., Ye, X., & Chen, J. [(2023)](https://doi.org/10.1177/03611981231157716). Factors associated with the severity of motor vehicle crashes involving electric motorcycles and electric bicycles: a random parameters logit approach with heterogeneity in means. Transportation research record, 2677(8), 691-704.
 
 ## Conference Paper
 
