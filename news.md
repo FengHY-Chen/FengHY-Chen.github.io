@@ -13,5 +13,5 @@ Event Date and Time: Tuesday, Jan 09, 2024 6:00PM - 7:30PM
 <img src="/images/TRB2024-poster.png">
 </div>
 <div>
-<img src="/images/TRB2024-1&2.jpg">
+<img src="/images/TRB2024-1&2.png">
 </div>
