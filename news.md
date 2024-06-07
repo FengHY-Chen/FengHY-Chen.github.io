@@ -15,7 +15,7 @@ title: News
 </div><br>
 <div class="two">
 <img src="/images/trb2024-1.jpg">
-<img src="/images/trb2024-1.jpg">
+<img src="/images/trb2024-2.jpg">
 </div>
 
 
