@@ -16,9 +16,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 ---
-- **Ph.D.: Communication and Transportation Engineering**, (2022-), Southeast University - China
-- **MS: Transportation Engineering**, (2019-2022), Guilin University of Electronic Technology- China
-- **BS: Traffic Engineering**, (2015-2019), Yangzhou University - China
+- **PhD: Communication and Transportation Engineering**, (2022-), Southeast University
+- **MS:  Transportation Engineering**, (2019-2022), Guilin University of Electronic Technology
+- **BS:   Traffic Engineering**, (2015-2019), Yangzhou University
 
 <br>
 
