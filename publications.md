@@ -29,12 +29,12 @@ title: Publications
 ## Patents (Granted)
 ---
 - Apr 2024: Block size determination method with regional data point rasterization (No.CN113868818B, Ranking 1/5)
+- Feb 2023: On-street parking conflict avoidance scheduling method and system based on the perception of parking availability status (No. CN113593289B, Ranking 1/5)
 - Nov 2023: Parking space allocation system for avoiding conflicts based on parking space supply availability awareness (No. CN113554276B, Ranking 2/5)
 - May 2023: Road potential risk assessment method and system based on Gaussian radiation of accident points (No. CN113821913B, Ranking 2/4)
 - Apr 2023: Bus risk evaluation system and method based on multi-source data (No. CN111210163B, Rranking 2/9)
-- Apr 2023: Freight carpooling method and application system for multimodal transportation based on blockchain (No. CN113469429B, Ranking 3/15)
-- Feb 2023: On-street parking conflict avoidance scheduling method and system based on the perception of parking availability status (No. CN113593289B, Ranking 1/5)
 - Dec 2022: Scheduling method, system and storage for avoiding parking conflicts based on parking-awareness (No.CN113593290B, Ranking 2/5)
+- Apr 2023: Freight carpooling method and application system for multimodal transportation based on blockchain (No. CN113469429B, Ranking 3/15)
 - May 2021: On-street parking intelligent management method and system (No. CN108961822B, Ranking 3/10)
 - Dec 2020: Roadside unit site selection method and system based on road buffer area superposition analysis (No. CN110956802B, Ranking 5/5)
 
