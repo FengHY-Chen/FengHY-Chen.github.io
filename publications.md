@@ -4,8 +4,6 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-#> Lastest Update: 6th June 2024&nbsp;  [中文版本 (Chinese Version)](https://FengHY-Chen.github.io/file/publications-zh/)
-
 ## Journal Paper
 ---
 - **Chen, Y.**, Wang, C., & Xie, Y. [(2024)](https://doi.org/10.1016/j.amar.2024.100333). Modeling the risk of single-vehicle run-off-road crashes on horizontal curves using connected vehicle data. **_Analytic Methods in Accident Research_**, 43, 100333.
