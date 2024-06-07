@@ -12,7 +12,20 @@ Event Date and Time: Tuesday, Jan 09, 2024 6:00PM - 7:30PM <br>
 
 <div>
 <img src="/images/TRB2024-poster.png">
-</div><br>
+</div>
+
+<style>
+.two {
+  display: flex;
+  justify-content: space-around;
+  gap: 10px; /* 可以根据需要调整图片间距 */
+}
+.two img {
+  width: 45%; /* 调整图片的宽度 */
+  aspect-ratio: auto; /* 保持图片的纵横比 */
+  object-fit: contain; /* 确保图片内容保持比例 */
+}
+</style>
 
 <div class="two">
   <img src="/images/trb2024-1.jpg" alt="Image 1">
