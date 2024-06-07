@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 6th June 2024&nbsp;  [中文版本 (Chinese Version)](https://FengHY-Chen.github.io/file/publications-zh/)
+#> Lastest Update: 6th June 2024&nbsp;  [中文版本 (Chinese Version)](https://FengHY-Chen.github.io/file/publications-zh/)
 
 ## Journal Paper
 ---

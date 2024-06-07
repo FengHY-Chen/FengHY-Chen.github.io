@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 20th May 2024 &nbsp; [中文版本 (Chinese Version)](https://FengHY-Chen.github.io/file/awards-zh/)
+#> Lastest Update: 20th May 2024 &nbsp; [中文版本 (Chinese Version)](https://FengHY-Chen.github.io/file/awards-zh/)
 
 ## Honors (Selected)
 ---
