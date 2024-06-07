@@ -16,9 +16,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 ---
-- **PhD: Communication and Transportation Engineering**, (2022-), Southeast University
-- **MS:  Transportation Engineering**, (2019-2022), Guilin University of Electronic Technology
-- **BS:   Traffic Engineering**, (2015-2019), Yangzhou University
+- **PhD: Communication and Transportation Engineering**, (2022-), Southeast University, Advisors: [Prof. Chen Wang](https://trmetagroup.github.io/team/ChenWang) & [Prof. Yuanchang Xie](https://www.uml.edu/engineering/civil-environmental/faculty/xie-yuanchang.aspx)
+- **MS:  Transportation Engineering**, (2019-2022), Guilin University of Electronic Technology, Advisor: [Prof. Tao Wang](https://www.guet.edu.cn/people2/1110133.html)
+- **BS:   Traffic Engineering**, (2015-2019), Yangzhou University, Advisor: [Prof. Shejun Deng](https://jgxy.yzu.edu.cn/info/1026/3109.htm)
 
 <br>
 
