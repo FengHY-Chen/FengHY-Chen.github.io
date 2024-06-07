@@ -19,5 +19,5 @@ Event Title: Analytical Methods of Safety Performance (No. 3231)
 ---
 **The 2nd Academic Forum on Digital Transportation and Smart Mobility**
 <div>
-<img src="DTSM-oral-presentation.png">
+<img src="/images/DTSM-oral-presentation2023.png">
 </div>
