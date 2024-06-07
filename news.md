@@ -4,14 +4,20 @@ permalink: /news/index.html
 title: News
 ---
 
-## Poster Session-TRB2024
+## Poster Session - Jan 2024
 ---
-Event Title: Analytical Methods of Safety Performance <br>
-Event Number: 3231 <br>
-Event Date and Time: Tuesday, Jan 09, 2024 6:00PM - 7:30PM
+**The 103th Transportation Research Board Annual Meeting**<br>
+Event Title: Analytical Methods of Safety Performance
 <div>
 <img src="/images/TRB2024-poster.png">
 </div>
 <div>
 <img src="/images/TRB2024-1&2.png">
+</div>
+
+## Oral Presentation - Aug 2023
+---
+**The 2nd Academic Forum on Digital Transportation and Smart Mobility**
+<div>
+<img src="DTSM-oral-presentation.png">
 </div>
