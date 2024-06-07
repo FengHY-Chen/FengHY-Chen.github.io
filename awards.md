@@ -24,6 +24,14 @@ title: Awards
 
  <br>
 
+## Certificates
+---
+- Oct 2019:  "Big Data Analyst (Advanced)", Special technical certificate for industry and information industry (No. 16138670).
+- Sep 2016:  National Computer Rank Examination Certificate of Level 2 (No.26463210768401)
+- Jun 2016:  Computer Rank Examination Certificate of Higher Education in Jiangsu Province of Level 2 (No.2016Q1111711625300614)
+
+ <br>
+
 ## Services
 ---
 - March 2021 - Present：China Highway and Transportation Society, Student Membership
