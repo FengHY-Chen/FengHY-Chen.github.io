@@ -84,8 +84,8 @@ title: Awards
     <td>Reviewer</td>
   </tr>
 </table>
-<br><br>
-**【Conference】**<br>
+<br>
+**【Conference】**
 <table>
   <tr>
     <td>TRB</td>
