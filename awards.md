@@ -40,67 +40,66 @@ title: Awards
 <table>
   <tr>
     <td>Accident Analysis and Prevention</td>
-    <td>   Q1   </td>
+    <td style="padding-left: 10px; padding-right: 10px;">Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Information Science</td>
-    <td>   Q1   </td>
+    <td style="padding-left: 10px; padding-right: 10px;">Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Applied Soft Computing Journal</td>
-    <td>   Q1   </td>
+    <td style="padding-left: 10px; padding-right: 10px;">Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Engineering Applications of Artificial Intelligence</td>
-    <td>   Q1   </td>
+    <td style="padding-left: 10px; padding-right: 10px;">Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Neural Computing and Applications</td>
-    <td>   Q1   </td>
+    <td style="padding-left: 10px; padding-right: 10px;">Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>IET Intelligent Transport Systems</td>
-    <td>   Q1   </td>
+    <td style="padding-left: 10px; padding-right: 10px;">Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>IEEE Access</td>
-    <td>   Q1   </td>
+    <td style="padding-left: 10px; padding-right: 10px;">Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Transportation Research Record</td>
-    <td>   Q2   </td>
+    <td style="padding-left: 10px; padding-right: 10px;">Q2</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>IET Image Processing</td>
-    <td>   Q2   </td>
+    <td style="padding-left: 10px; padding-right: 10px;">Q2</td>
     <td>Reviewer</td>
   </tr>
-    <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
+</table>
+
+**【Conference1】**
+<table>
   <tr>
     <td>TRB</td>
-    <td>   Conference   </td>
+    <td style="padding-left: 10px; padding-right: 10px;">Conference</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>IEEE ITSC</td>
-    <td>   Conference   </td>
+    <td style="padding-left: 10px; padding-right: 10px;">Conference</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>COTA CICTP</td>
-    <td>   Conference   </td>
+    <td style="padding-left: 10px; padding-right: 10px;">Conference</td>
     <td>Reviewer</td>
   </tr>
 </table>
