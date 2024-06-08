@@ -38,6 +38,11 @@ title: Awards
 <br><br>
 <table>
   <tr>
+    <td> **【Jounal】**</td>
+    <td style="padding-left: 0px; padding-right: 20px;"> </td>
+    <td> </td>
+  </tr>
+  <tr>
     <td>Accident Analysis and Prevention</td>
     <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
     <td>Reviewer</td>
@@ -83,7 +88,7 @@ title: Awards
     <td>Reviewer</td>
   </tr>
   <tr>
-    <td> --------------------------------------- </td>
+    <td> <br> **【Conference】**</td>
     <td style="padding-left: 0px; padding-right: 20px;"> </td>
     <td> </td>
   </tr>
