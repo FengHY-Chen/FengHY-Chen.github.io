@@ -38,7 +38,7 @@ title: Awards
 <br><br>
 <table>
   <tr>
-    <td> **【Jounal】**</td>
+    <td> **【Jounal】** </td>
     <td style="padding-left: 0px; padding-right: 20px;"> </td>
     <td> </td>
   </tr>
@@ -88,7 +88,7 @@ title: Awards
     <td>Reviewer</td>
   </tr>
   <tr>
-    <td> <br> **【Conference】**</td>
+    <td> <br> **【Conference】** </td>
     <td style="padding-left: 0px; padding-right: 20px;"> </td>
     <td> </td>
   </tr>
