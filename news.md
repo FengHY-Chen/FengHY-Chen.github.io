@@ -28,6 +28,16 @@ Authors: Yuzhi Chen, Tao Wang, Xingchen Yan, Chen Wang
 
 <br>
 
+## Poster Online- Jul 2022
+---
+**Excellent Master Thesis Achievement Exhibition**<br>
+Authors: Yuzhi Chen; Advisor: Tao Wang
+<div>
+<img src="/images/Excellent Master Theses.jpg">
+</div>
+
+<br>
+
 ## Poster Online- Dec 2021
 ---
 **The 20th and 21st Joint COTA International Conference of Transportation Professionals**<br>
