@@ -82,8 +82,9 @@ title: Awards
     <td style="padding-left: 0px; padding-right: 20px;">JCR Q2</td>
     <td>Reviewer</td>
   </tr>
+  ---
   <tr>
-    <td> --- </td>
+    <td> ------------------------------------- </td>
     <td style="padding-left: 0px; padding-right: 20px;"> </td>
     <td> </td>
   </tr>
