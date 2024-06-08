@@ -35,66 +35,66 @@ title: Awards
 - March 2021 - Present：China Highway and Transportation Society, Student Membership
 - March 2021 - Present：IEEE, Student Membership
 - Jan 2022 - Present：IEEE ITSS, Student Membership
-<br><br>
+<br>
 <table>
   <tr>
     <td>Accident Analysis and Prevention</td>
-    <td style="padding-left: 10px; padding-right: 10px;">Q1</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Information Science</td>
-    <td style="padding-left: 10px; padding-right: 10px;">Q1</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Applied Soft Computing Journal</td>
-    <td style="padding-left: 10px; padding-right: 10px;">Q1</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Engineering Applications of Artificial Intelligence</td>
-    <td style="padding-left: 10px; padding-right: 10px;">Q1</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Neural Computing and Applications</td>
-    <td style="padding-left: 10px; padding-right: 10px;">Q1</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>IET Intelligent Transport Systems</td>
-    <td style="padding-left: 10px; padding-right: 10px;">Q1</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>IEEE Access</td>
-    <td style="padding-left: 10px; padding-right: 10px;">Q1</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Transportation Research Record</td>
-    <td style="padding-left: 10px; padding-right: 10px;">Q2</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Q2</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>IET Image Processing</td>
-    <td style="padding-left: 10px; padding-right: 10px;">Q2</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Q2</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>TRB</td>
-    <td style="padding-left: 10px; padding-right: 10px;">Conference</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>IEEE ITSC</td>
-    <td style="padding-left: 10px; padding-right: 10px;">Conference</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>COTA CICTP</td>
-    <td style="padding-left: 10px; padding-right: 10px;">Conference</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
     <td>Reviewer</td>
   </tr>
 </table>
