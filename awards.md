@@ -35,8 +35,8 @@ title: Awards
 - March 2021 - Present：China Highway and Transportation Society, Student Membership
 - March 2021 - Present：IEEE, Student Membership
 - Jan 2022 - Present：IEEE ITSS, Student Membership
-<br><br>
-**【Journal】**<br>
+
+**【Journal】**
 <table>
   <tr>
     <td>Accident Analysis and Prevention</td>
@@ -102,7 +102,7 @@ title: Awards
     <td>Reviewer</td>
   </tr>
 </table>
-<br>
+
 
 
 
