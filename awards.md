@@ -31,10 +31,26 @@ title: Awards
  <br>
 
 ## Services
----
+**Society**
 - March 2021 - Present：China Highway and Transportation Society, Student Membership
 - March 2021 - Present：IEEE, Student Membership(No. 97051068)
 - Jan 2022 - Present：IEEE Intelligent Transportation Systems Society, Student Membership
+
+**Journal**
+- Accident Analysis and Prevention, JCR Q1, Reviewer
+- Information Science, JCR Q1, Reviewer
+- Applied Soft Computing Journal, JCR Q1, Reviewer
+- Engineering Applications of Artificial Intelligence, JCR Q1, Reviewer
+- Neural Computing and Applications, JCR Q1, Reviewer
+- IET Intelligent Transport Systems, JCR Q1, Reviewer
+- IEEE Access, JCR Q1, Reviewer
+- Transportation Research Record, JCR Q2, Reviewer
+- IET Image Processing, JCR Q2, Reviewer
+
+**Conference**
+- TRB, Conference, Reviewer
+- IEEE ITSC, Conference, Reviewer
+- COTA CICTP, Conference, Reviewer
 
  <br>
 
