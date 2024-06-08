@@ -34,8 +34,7 @@ title: Awards
 ---
 - March 2021 - Present：China Highway and Transportation Society, Student Membership
 - March 2021 - Present：IEEE, Student Membership(No. 97051068)
-- Jan 2022 - Present：IEEE ITSS, Student Membership<br>
-
+- Jan 2022 - Present：IEEE ITSS, Student Membership<br><br>
 **Journal**
 - Accident Analysis and Prevention, JCR Q1, Reviewer
 - Information Science, JCR Q1, Reviewer
@@ -45,8 +44,7 @@ title: Awards
 - IET Intelligent Transport Systems, JCR Q1, Reviewer
 - IEEE Access, JCR Q1, Reviewer
 - Transportation Research Record, JCR Q2, Reviewer
-- IET Image Processing, JCR Q2, Reviewer<br>
-
+- IET Image Processing, JCR Q2, Reviewer<br><br>
 **Conference**
 - TRB, Conference, Reviewer
 - IEEE ITSC, Conference, Reviewer
