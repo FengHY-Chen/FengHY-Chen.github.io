@@ -36,7 +36,7 @@ title: Awards
 - March 2021 - Present：IEEE, Student Membership(No. 97051068)
 - Jan 2022 - Present：IEEE ITSS, Student Membership
 <br><br>
-**Journal**<br>
+**【Journal】**<br>
 - Accident Analysis and Prevention, Q1, Reviewer
 - Information Science, Q1, Reviewer
 - Applied Soft Computing Journal, Q1, Reviewer
@@ -47,7 +47,7 @@ title: Awards
 - Transportation Research Record, Q2, Reviewer
 - IET Image Processing, Q2, Reviewer
 <br><br>
-**Conference**<br>
+**【Conference】**<br>
 - TRB, Conference, Reviewer
 - IEEE ITSC, Conference, Reviewer
 - COTA CICTP, Conference, Reviewer
