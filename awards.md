@@ -33,7 +33,7 @@ title: Awards
 ## Services
 ---
 - March 2021 - Present：China Highway and Transportation Society, Student Membership
-- March 2021 - Present：IEEE, Student Membership(No. 97051068)
+- March 2021 - Present：IEEE, Student Membership
 - Jan 2022 - Present：IEEE ITSS, Student Membership
 <br><br>
 **【Journal】**<br>
@@ -86,9 +86,22 @@ title: Awards
 </table>
 <br><br>
 **【Conference】**<br>
-- TRB, Conference, Reviewer
-- IEEE ITSC, Conference, Reviewer
-- COTA CICTP, Conference, Reviewer
+<table>
+  <tr>
+    <td>TRB</td>
+    <td>   Conference   </td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
+    <td>IEEE ITSC</td>
+    <td>   Conference   </td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
+    <td>COTA CICTP</td>
+    <td>   Conference   </td>
+    <td>Reviewer</td>
+  </tr>
 
 <br>
 
