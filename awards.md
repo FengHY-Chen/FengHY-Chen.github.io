@@ -83,10 +83,6 @@ title: Awards
     <td style="padding-left: 10px; padding-right: 10px;">Q2</td>
     <td>Reviewer</td>
   </tr>
-</table>
-
-**【Conference1】**
-<table>
   <tr>
     <td>TRB</td>
     <td style="padding-left: 10px; padding-right: 10px;">Conference</td>
