@@ -102,7 +102,7 @@ title: Awards
     <td>   Conference   </td>
     <td>Reviewer</td>
   </tr>
-
+</table>
 <br>
 
 
