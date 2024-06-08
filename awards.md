@@ -54,3 +54,62 @@ title: Awards
 
 <br>
 
+- Accident Analysis and Prevention                   , Q1, Reviewer
+- Information Science                                , Q1, Reviewer
+- Applied Soft Computing Journal                     , Q1, Reviewer
+- Engineering Applications of Artificial Intelligence, Q1, Reviewer
+- Neural Computing and Applications                  , Q1, Reviewer
+- IET Intelligent Transport Systems                  , Q1, Reviewer
+- IEEE Access                                        , Q1, Reviewer
+- Transportation Research Record                     , Q2, Reviewer
+- IET Image Processing                               , Q2, Reviewer
+
+
+
+<table>
+  <tr>
+    <td>Accident Analysis and Prevention</td>
+    <td>Q1</td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
+    <td>Information Science</td>
+    <td>Q1</td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
+    <td>Applied Soft Computing Journal</td>
+    <td>Q1</td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
+    <td>Engineering Applications of Artificial Intelligence</td>
+    <td>Q1</td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
+    <td>Neural Computing and Applications</td>
+    <td>Q1</td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
+    <td>IET Intelligent Transport Systems</td>
+    <td>Q1</td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
+    <td>IEEE Access</td>
+    <td>Q1</td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
+    <td>Transportation Research Record</td>
+    <td>Q2</td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
+    <td>IET Image Processing</td>
+    <td>Q2</td>
+    <td>Reviewer</td>
+  </tr>
+</table>
