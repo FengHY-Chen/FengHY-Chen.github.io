@@ -39,53 +39,53 @@ title: Awards
 <table>
   <tr>
     <td>Accident Analysis and Prevention</td>
-    <td style="padding-left: 0px; padding-right: 20px;">Q1</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Information Science</td>
-    <td style="padding-left: 0px; padding-right: 20px;">Q1</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Applied Soft Computing Journal</td>
-    <td style="padding-left: 0px; padding-right: 20px;">Q1</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Engineering Applications of Artificial Intelligence</td>
-    <td style="padding-left: 0px; padding-right: 20px;">Q1</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Neural Computing and Applications</td>
-    <td style="padding-left: 0px; padding-right: 20px;">Q1</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>IET Intelligent Transport Systems</td>
-    <td style="padding-left: 0px; padding-right: 20px;">Q1</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>IEEE Access</td>
-    <td style="padding-left: 0px; padding-right: 20px;">Q1</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>Transportation Research Record</td>
-    <td style="padding-left: 0px; padding-right: 20px;">Q2</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q2</td>
     <td>Reviewer</td>
   </tr>
   <tr>
     <td>IET Image Processing</td>
-    <td style="padding-left: 0px; padding-right: 20px;">Q2</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q2</td>
     <td>Reviewer</td>
   </tr>
   <tr>
-    <td>  </td>
-    <td style="padding-left: 0px; padding-right: 20px;">  </td>
-    <td>  </td>
+    <td> --- </td>
+    <td style="padding-left: 0px; padding-right: 20px;"> </td>
+    <td> </td>
   </tr>
   <tr>
     <td>TRB</td>
