@@ -20,7 +20,7 @@ title: Awards
 - Apr 2018:   "TransStar"-The 3rd Jiangsu Competition of Transport Science and Technology for Students (2st grade)
 - Excellent Student Cadre of YZU; Outstanding Volunteers of YZU, Excellent League Member of YZU 
 
- <br>
+<br>
 
 ## Certificates
 ---
@@ -28,15 +28,14 @@ title: Awards
 - Sep 2016:  National Computer Rank Examination Certificate of Level 2 (No.26463210768401)
 - Jun 2016:  Computer Rank Examination Certificate of Higher Education in Jiangsu Province of Level 2 (No.2016Q1111711625300614)
 
- <br>
+<br>
 
 ## Services
-**Society**
+<br>**Society**
 - March 2021 - Present：China Highway and Transportation Society, Student Membership
 - March 2021 - Present：IEEE, Student Membership(No. 97051068)
 - Jan 2022 - Present：IEEE Intelligent Transportation Systems Society, Student Membership
-
-**Journal**
+<br>**Journal**
 - Accident Analysis and Prevention, JCR Q1, Reviewer
 - Information Science, JCR Q1, Reviewer
 - Applied Soft Computing Journal, JCR Q1, Reviewer
@@ -46,11 +45,10 @@ title: Awards
 - IEEE Access, JCR Q1, Reviewer
 - Transportation Research Record, JCR Q2, Reviewer
 - IET Image Processing, JCR Q2, Reviewer
-
-**Conference**
+<br>**Conference**
 - TRB, Conference, Reviewer
 - IEEE ITSC, Conference, Reviewer
 - COTA CICTP, Conference, Reviewer
 
- <br>
+<br>
 
