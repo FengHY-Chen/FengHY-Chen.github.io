@@ -36,7 +36,6 @@ title: Awards
 - March 2021 - Present：IEEE, Student Membership
 - Jan 2022 - Present：IEEE ITSS, Student Membership
 <br><br>
-**【Journal】**
 <table>
   <tr>
     <td>Accident Analysis and Prevention</td>
@@ -82,12 +81,7 @@ title: Awards
     <td>IET Image Processing</td>
     <td>   Q2   </td>
     <td>Reviewer</td>
-  </tr>
-</table>
-
-
-**【Conference】**
-<table>
+  </tr><br>
   <tr>
     <td>TRB</td>
     <td>   Conference   </td>
@@ -106,25 +100,3 @@ title: Awards
 </table>
 
 <br>
-
-**【Conference1】**
-<table>
-  <tr>
-    <td>TRB</td>
-    <td>   Conference   </td>
-    <td>Reviewer</td>
-  </tr>
-  <tr>
-    <td>IEEE ITSC</td>
-    <td>   Conference   </td>
-    <td>Reviewer</td>
-  </tr>
-  <tr>
-    <td>COTA CICTP</td>
-    <td>   Conference   </td>
-    <td>Reviewer</td>
-  </tr>
-</table>
-
-
-
