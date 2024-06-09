@@ -12,9 +12,6 @@ Authors: Yuzhi Chen, Chen Wang, Yuanchang Xie
 <div>
 <img src="/images/TRB2024-poster.png">
 </div>
-<div>
-<img src="/images/TRB2024-1&2.png">
-</div>
 
 <br>
 
