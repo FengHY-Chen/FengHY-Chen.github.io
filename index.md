@@ -34,7 +34,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Projects
 ---
-<p><strong>【Host】</strong></p>
+<p style="margin: 0; padding: 0;"><strong>【Host】</strong></p>
 <ul style="margin: 0; padding: 0;">
   <li><strong>Postgraduate Research & Practice Innovation Program of Jiangsu Province</strong>: Risk Identification and Hierarchical Collaborative Intervention for Intelligent Vehicles Considering Human-Machine Co-Driving States(No. KYCX23_0306) 🎉</li>
   <li><strong>Tsinghua-Toyota Automated Driving Project</strong>: The traffic accident detection and report of automated vehicles at Lv4 level (Partially hosted)</li>
@@ -42,8 +42,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
   <li><strong>An Innovative Entrepreneurship Training Program for university students in Jiangsu Province</strong> (No.201811117082X)</li>
 </ul>
 
-<br>
-<p><strong>【Participate】</strong></p>
+<p style="margin: 0; padding: 0;"><strong>【Participate】</strong></p>
 <ul style="margin: 0; padding: 0;">
   <li><strong>National Key R&D Program of China</strong>: Rapid Recovery and Control Technology for Urban Traffic in Accident Environments Based on Artificial Intelligence (No. 2023YFE0106800)</li>
   <li><strong>National Natural Science Foundation of China</strong>: Risk evaluation technology of human-computer driving intelligent vehicle under complex traffic environment (No. 52262047)</li>
@@ -53,6 +52,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
   <li><strong>Traffic impact assessment of the control plan of Guilin China Resources Phase II site of CR Land South China Region</strong></li>
   <li><strong>Industry Standards at Provincial and Ministerial Levels: Urban public transport stations construction standards</strong></li>
 </ul>
+
 
 
 
