@@ -34,14 +34,13 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Projects
 --- 
- <br><br>
-**【Host】**
+**【Host】** </br>
 - **Postgraduate Research & Practice Innovation Program of Jiangsu Province**: Risk Identification and Hierarchical Collaborative Intervention for Intelligent Vehicles Considering Human-Machine Co-Driving States(No. KYCX23_0306) 🎉
 - **Tsinghua-Toyota Automated Driving Project**: The traffic accident detection and report of automated vehicles at Lv4 level (Partially hosted)
 - **Innovation Project of GUET Graduate Education**: Driver risk perception in an intelligent vehicle-road collaborative context. (No.2020YCXS121)
 - **An Innovative Entrepreneurship Training Program for university students in Jiangsu Province** (No.201811117082X)
- <br>
-**【Participate)】**
+ <br> <br>
+**【Participate】**
 - **National Key R&D Program of China**: Rapid Recovery and Control Technology for Urban Traffic in Accident Environments Based on Artificial Intelligence (No. 2023YFE0106800)
 - **National Natural Science Foundation of China**: Risk evaluation technology of human-computer driving intelligent vehicle under complex traffic environment (No. 52262047)
 - **Jiangsu Provincial Foundation for Distinguished Young Scholars**: Intelligent Prevention and Control of Road Traffic Safety Risks (No. BK20231531)
