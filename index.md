@@ -32,8 +32,15 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 <br>
 
+<style>
+  p, ul {
+    margin: 0;
+    padding: 0;
+  }
+</style>
+
 ## Projects
---- 
+---
 <p><strong>【Host】</strong></p>
 <ul>
   <li><strong>Postgraduate Research & Practice Innovation Program of Jiangsu Province</strong>: Risk Identification and Hierarchical Collaborative Intervention for Intelligent Vehicles Considering Human-Machine Co-Driving States(No. KYCX23_0306) 🎉</li>
@@ -51,6 +58,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
   <li><strong>Traffic impact assessment of the control plan of Guilin China Resources Phase II site of CR Land South China Region</strong></li>
   <li><strong>Industry Standards at Provincial and Ministerial Levels: Urban public transport stations construction standards</strong></li>
 </ul>
+
 
 
 
