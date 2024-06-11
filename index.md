@@ -42,6 +42,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
   <li><strong>An Innovative Entrepreneurship Training Program for university students in Jiangsu Province</strong> (No.201811117082X)</li>
 </ul>
 
+<br>
 
 <p style="margin: 0; padding: 0;"><strong>【Participate】</strong></p>
 <ul style="margin: 0; padding: 0;">
