@@ -6,11 +6,26 @@ title: News
 
 ## Poster Session - Jan 2024
 ---
+**World Transport Convention 2024**<br>
+Event Title: Forum on Traffic Safety Analysis and Improvement (VI) <br>
+Authors: Yuzhi Chen, Chen Wang, Yuanchang Xie
+<div>
+<img src="/images/WTC2024-ppt.png">
+<img src="/images/WTC2024-1.jpg">
+<img src="/images/WTC2024-2.jpg">
+</div>
+
+<br>
+
 **The 103th Transportation Research Board Annual Meeting**<br>
 Event Title: Analytical Methods of Safety Performance<br>
 Authors: Yuzhi Chen, Chen Wang, Yuanchang Xie
 <div>
-<img src="/images/TRB2024-poster.png">
+<img src="/images/WTC2024-ppt.png">
+    <div>
+    <img src="/images/WTC2024-1.jpg">
+    <img src="/images/WTC2024-2.jpg"><img src="/images/TRB2024-poster.png">
+    </div>
 </div>
 
 <br>
