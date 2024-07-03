@@ -12,8 +12,8 @@ Authors: Yuzhi Chen, Chen Wang, Yuanchang Xie
 <div>
     <img src="/images/WTC2024-ppt.png" style="display: block; width: 100%; height: auto; margin-bottom: 10px;">
     <div style="display: flex;">
-        <img src="/images/WTC2024-1.jpg" style="height: 100%; width: auto; object-fit: contain;">
-        <img src="/images/WTC2024-2.jpg" style="height: 100%; width: auto; object-fit: contain; margin-left: 10px;">
+        <img src="/images/WTC2024-1.jpg" style="height: auto; width: auto; max-height: 150px; object-fit: contain;">
+        <img src="/images/WTC2024-2.jpg" style="height: auto; width: auto; max-height: 150px; object-fit: contain; margin-left: 10px;">
     </div>
 </div>
 
