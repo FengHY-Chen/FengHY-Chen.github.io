@@ -11,9 +11,9 @@ Event: Forum on Traffic Safety Analysis and Improvement (VI)<br>
 Authors: Yuzhi Chen, Chen Wang, Yuanchang Xie
 <div>
     <img src="/images/WTC2024-ppt.png" style="display: block; width: 100%; height: auto; margin-bottom: 10px;">
-    <div style="display: flex; width: 100%;">
-        <img src="/images/WTC2024-1.jpg" style="height: auto; flex-grow: 1; object-fit: contain; max-height: 200px;">
-        <img src="/images/WTC2024-2.jpg" style="height: auto; flex-grow: 1; object-fit: contain; max-height: 200px; margin-left: 10px;">
+    <div class="two">
+        <img src="/images/WTC2024-1.jpg">
+        <img src="/images/WTC2024-2.jpg">
     </div>
 </div>
 
