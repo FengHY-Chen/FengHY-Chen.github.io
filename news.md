@@ -10,7 +10,7 @@ title: News
 Event: Forum on Traffic Safety Analysis and Improvement (VI)<br>
 Authors: Yuzhi Chen, Chen Wang, Yuanchang Xie
 <div>
-<img src="/images/WTC2024.png">
+<img src="/images/WTC2024.jpg">
 </div>
 
 <br>
