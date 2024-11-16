@@ -10,7 +10,7 @@ title: News
 Title: Shaping the Future of Safety Research with Artificial Intelligence and Advanced Sensing Technologies<br>
 Authors: Yuzhi Chen, Xintong Yan, Yuanchang Xie, Chen Wang
 <div>
-<img src="/images/ISAAP-2024.jpg">
+<img src="/images/ISAAP-2024.png">
 </div>
 
 <br>
@@ -21,7 +21,7 @@ Authors: Yuzhi Chen, Xintong Yan, Yuanchang Xie, Chen Wang
 Event: ThAT8 - Advanced Vehicle Safety Systems II<br>
 Authors: Yuzhi Chen, Yuanchang Xie, Chen Wang, Sixuan Xu, Lanwu
 <div>
-<img src="/images/IEEE-ITSC-2024.jpg">
+<img src="/images/IEEE-ITSC-2024.png">
 </div>
 
 <br>
