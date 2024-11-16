@@ -6,6 +6,28 @@ title: News
 
 ## Poster Presentation - Jun 2024
 ---
+**International Symposium on Accident Analysis & Prevention 2024 (ISAAP2024)**<br>
+Title: Shaping the Future of Safety Research with Artificial Intelligence and Advanced Sensing Technologies<br>
+Authors: Yuzhi Chen, Xintong Yan, Yuanchang Xie, Chen Wang
+<div>
+<img src="/images/ISAAP-2024.jpg">
+</div>
+
+<br>
+
+## Poster Presentation - Sep 2024
+---
+**27th IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2024)**<br>
+Event: ThAT8 - Advanced Vehicle Safety Systems II<br>
+Authors: Yuzhi Chen, Yuanchang Xie, Chen Wang, Sixuan Xu, Lanwu
+<div>
+<img src="/images/IEEE-ITSC-2024.jpg">
+</div>
+
+<br>
+
+## Poster Presentation - Jun 2024
+---
 **World Transport Convention 2024**<br>
 Event: Forum on Traffic Safety Analysis and Improvement (VI)<br>
 Authors: Yuzhi Chen, Chen Wang, Yuanchang Xie
