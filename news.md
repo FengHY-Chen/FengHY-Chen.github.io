@@ -4,7 +4,7 @@ permalink: /news/index.html
 title: News
 ---
 
-## Oral Presentation - Jun 2024
+## Oral Presentation - Nov 2024
 ---
 **International Symposium on Accident Analysis & Prevention 2024 (ISAAP2024)**<br>
 Title: Shaping the Future of Safety Research with Artificial Intelligence and Advanced Sensing Technologies<br>
