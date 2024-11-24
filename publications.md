@@ -6,7 +6,7 @@ title: Publications
 
 ## Journal Paper
 ---
-- **Chen, Y.**, Wang, C., & Xie, Y. [(2024)](https://doi.org/10.1016/j.amar.2024.100333). Modeling the risk of single-vehicle run-off-road crashes on horizontal curves using connected vehicle data. **_Analytic Methods in Accident Research_**, 43, 100333.
+- **Chen, Y.**, Wang, C., & Xie, Y. [(2024)](https://doi.org/10.1016/j.amar.2024.100333). Modeling the risk of single-vehicle run-off-road crashes on horizontal curves using connected vehicle data. **_Analytic Methods in Accident Research_**, 43, 100333.🎉
 - **Chen, Y.**, Wang, T., Yan, X., & Wang, C. [(2022)](https://doi.org/10.1109/MITS.2022.3163506). An ensemble optimization strategy for dynamic parking-space allocation. **_IEEE Intelligent Transportation Systems Magazine_**, 15(1), 347-362.
 - Wang, T., **Chen, Y.**, Yu, J., & Xie, S. [(2021)](https://doi.org/10.1109/ACCESS.2021.3108039). Formation mechanisms and clustering differences in risky riding behaviors of electric bike riders. **_IEEE Access_**, 9, 119712-119721.
 - Wang, T., **Chen, Y.**, Yan, X., Chen, J., & Li, W. [(2020)](https://doi.org/10.1155/2020/9743504). The Relationship between Bus Drivers' Improper Driving Behaviors and Abnormal Vehicle States Based on Advanced Driver Assistance Systems in Naturalistic Driving. **_Mathematical Problems in Engineering_**.
