@@ -1,6 +1,5 @@
-# GuangLun means Nimbus in Chinese ✨
 
-Here is **Yuzhi Chen (陈芋志)**. This is my personal web repo. 
+Here is **Yuzhi Chen (陈芋志)**✨ This is my personal web repo. 
 
 If you like it, please star it! 🥰
 
