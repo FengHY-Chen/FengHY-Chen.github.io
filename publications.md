@@ -7,6 +7,7 @@ title: Publications
 ## Journal Paper
 ---
 - **Chen, Y.**, Xie, Y., Wang, C., Yang, L., Zheng, N., & Wu, L. [(2025)](https://doi.org/10.1016/j.amar.2025.100370). Time-dependent effect of advanced driver assistance systems on driver behavior based on connected vehicle data. **_Analytic Methods in Accident Research_**, 100370.🎉
+- Zhao, L., Zhou, W., Xu, S., **Chen, Y.**, & Wang, C. [(2024)](https://doi.org/10.1016/j.trc.2024.104974). Multi-agent trajectory prediction at unsignalized intersections: An improved generative adversarial network accounting for collision avoidance behaviors. **_Transportation Research Part C: Emerging Technologies_**, 171, 104974.
 - **Chen, Y.**, Wang, C., & Xie, Y. [(2024)](https://doi.org/10.1016/j.amar.2024.100333). Modeling the risk of single-vehicle run-off-road crashes on horizontal curves using connected vehicle data. **_Analytic Methods in Accident Research_**, 43, 100333.
 - **Chen, Y.**, Wang, T., Yan, X., & Wang, C. [(2022)](https://doi.org/10.1109/MITS.2022.3163506). An ensemble optimization strategy for dynamic parking-space allocation. **_IEEE Intelligent Transportation Systems Magazine_**, 15(1), 347-362.
 - Wang, T., **Chen, Y.**, Yu, J., & Xie, S. [(2021)](https://doi.org/10.1109/ACCESS.2021.3108039). Formation mechanisms and clustering differences in risky riding behaviors of electric bike riders. **_IEEE Access_**, 9, 119712-119721.
