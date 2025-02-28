@@ -4,7 +4,7 @@ layout: page
 
 # Yuzhi Chen
 
-<img src="https://FengHY-Chen.github.io/chenyuzhi.jpg" class="floatpic" width="3287" height="4000">
+<img src="https://FengHY-Chen.github.io/chenyuzhi.jpg" class="floatpic" width="6000" height="4000">
 
 
 **Yuzhi Chen  (陈芋志)** received the master’s degree in transportation engineering with Guilin University of Electronic Technology. He is currently pursuing a Ph.D. degree in Communication and Transportation Engineering at Southeast University, under the supervision of [Prof. Chen Wang](https://trmetagroup.github.io/team/ChenWang) and [Prof. Yuanchang Xie](https://www.uml.edu/engineering/civil-environmental/faculty/xie-yuanchang.aspx). His research interests include intelligent transportation systems, connected and automated driving, crash risk measure, risky driving behavior and safety, big data mining and analysis.
