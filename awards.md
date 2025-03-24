@@ -35,7 +35,8 @@ title: Awards
 ---
 - March 2021 - Present：China Highway and Transportation Society, Student Membership
 - March 2021 - Present：IEEE, Student Membership
-- Jan 2022 - Present：IEEE ITSS, Student Membership
+- January 2022 - Present：IEEE ITSS, Student Membership
+- March 2025 - Present：China Society of Automotive Engineers, Student Membership
 <br><br>
 <table>
   <tr>
