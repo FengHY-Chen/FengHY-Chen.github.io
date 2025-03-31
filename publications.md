@@ -23,7 +23,7 @@ title: Publications
 
 ## Conference Paper
 ---
-- **Chen, Y.**, Xie, Y., Wang, C., Xu, S., & Zhao, L. (2025). Trade-offs Between Safety and Volatility in Driving Interactions: Evidence from A Connected Vehicle Pilot Study. In **_the 2025 36th IEEE Intelligent Vehicles Symposium (IV) (IV 2025)_** . Cluj, Romania, IEEE. (Accepted)
+- **Chen, Y.**, Xie, Y., Wang, C., Xu, S., & Zhao, L. (2025). Trade-offs Between Safety and Volatility in Driving Interactions: Evidence from A Connected Vehicle Pilot Study. In **_the 2025 36th IEEE Intelligent Vehicles Symposium (IV) (IV 2025)_** . Cluj-Napoca, Romania, IEEE. (Accepted)
 - **Chen, Y.**, Xie, Y., Wang, C., Xu, S., & Wu, L. [(2024)](https://doi.org/10.1109/ITSC58415.2024.10919910). Temporal Dependency of Forward Collision Warning Effectiveness: A Functional Framework for Speed Profiles After Receiving Warnings. In **_2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)_** (pp. 1793-1798). Edmonton, AB, Canada, IEEE.
 - **Chen, Y. Z.**, Wang, T., Xie, L., Shi, D., & Wang, C. L. [(2020)](https://ascelibrary.org/doi/abs/10.1061/9780784483053.372). Safety Evaluation of Bus Running State Based on Multi-Source Data. In **_CICTP 2020_** (pp. 4473-4485).
 - Shi, D., Wang, T., **Chen, Y.**, & Liu, C. [(2021)](https://doi.org/10.1007/978-981-19-2259-6_88). Exploring the effects of request time, secondary task, and take-over mode on take-over performance. In **_International Conference on Intelligent Transportation Engineering_** (pp. 1001-1014). Singapore: Springer Nature Singapore.
