@@ -9,7 +9,7 @@ layout: page
 
 **Yuzhi Chen  (陈芋志)** received the master’s degree in transportation engineering with Guilin University of Electronic Technology. He is currently pursuing a Ph.D. degree in Communication and Transportation Engineering at Southeast University, under the supervision of [Prof. Chen Wang](https://trmetagroup.github.io/team/ChenWang) and [Prof. Yuanchang Xie](https://www.uml.edu/engineering/civil-environmental/faculty/xie-yuanchang.aspx). His research interests include intelligent transportation systems, connected and automated driving, crash risk measure, risky driving behavior and safety, big data mining and analysis.
 
-He serves as reviewers for International journals including Accident Analysis and Prevent, Information Science, Applied Soft Computing Journal, Engineering Applications of Artificial Intelligence, Neural Computing and Applications, The Journal of Supercomputing, COTA CICTP, TRB,IET Intelligent Transport Systems, and IET Image Processing. He has completed **more than 150 review articles**.
+He serves as reviewers for International journals including Accident Analysis and Prevent, IEEE TITS, IEEE TVT, Information Science, Applied Soft Computing Journal, Engineering Applications of Artificial Intelligence, Neural Computing and Applications, The Journal of Supercomputing, COTA CICTP, TRB,IET Intelligent Transport Systems, and IET Image Processing. He has completed **more than 150 review articles**.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *y.z.chen.fhy@gmail.com*
 <br>
