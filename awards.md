@@ -50,6 +50,11 @@ title: Awards
     <td>Reviewer</td>
   </tr>
   <tr>
+    <td>IEEE Transactions on Intelligent Transportation Systems</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
     <td>IEEE Transactions on Vehicular Technology</td>
     <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
     <td>Reviewer</td>
@@ -106,6 +111,11 @@ title: Awards
   </tr>
   <tr>
     <td>IEEE ITSC</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
+    <td>IEEE IV</td>
     <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
     <td>Reviewer</td>
   </tr>
