@@ -37,7 +37,7 @@ Authors: Yuzhi Chen, Chen Wang, Yuanchang Xie
 
 <br>
 
-## Poster Session - Jan 2024
+## Poster Presentation - Jan 2024
 ---
 **The 103th Transportation Research Board Annual Meeting**<br>
 Event: Analytical Methods of Safety Performance<br>
