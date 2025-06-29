@@ -9,9 +9,9 @@ title: News
 **36th IEEE International Vehicles Symposium (IEEE IV 2025)**<br>
 Title: Trade-offs Between Safety and Volatility in Driving Interactions: Evidence from A Connected Vehicle Pilot Study<br>
 Authors: Yuzhi Chen, Yuanchang Xie, Sixuan Xu, Lei Zhao, Chen Wang<br>
-**Invited Workshop Presentation:** SPADE - Secure, Privacy-Aware Naturalistic Driving Data for Future Mobility: Insights from Structured and Unstructured Environments (W-SPADE)<br>
+**Event 1: "Invited Workshop Presentation"**  SPADE - Secure, Privacy-Aware Naturalistic Driving Data for Future Mobility: Insights from Structured and Unstructured Environments (W-SPADE)<br>
 Location: SuWBT7  Workshop Session, Leonardo Room<br>
-**Poster Presentation:** Poster 4.4 >> Cooperation & Connectivity<br>
+**Event 2: "Poster Presentation"**  Poster 4.4 >> Cooperation & Connectivity<br>
 Location: TuDT4  Poster Session, Bernini Room
 <div>
 <img src="/images/IEEE-IV2025.png">
