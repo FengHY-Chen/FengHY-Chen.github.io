@@ -4,6 +4,21 @@ permalink: /news/index.html
 title: News
 ---
 
+## Oral Presentation - Jun 2025
+---
+**36th IEEE International Vehicles Symposium (IEEE IV 2025)**<br>
+Title: Trade-offs Between Safety and Volatility in Driving Interactions: Evidence from A Connected Vehicle Pilot Study<br>
+Authors: Yuzhi Chen, Yuanchang Xie, Sixuan Xu, Lei Zhao, Chen Wang
+**Invited Workshop Presentation: **SPADE - Secure, Privacy-Aware Naturalistic Driving Data for Future Mobility: Insights from Structured and Unstructured Environments (W-SPADE)
+Location: SuWBT7  Workshop Session, Leonardo Room
+**Poster Presentation: **Poster 4.4 >> Cooperation & Connectivity
+Location: TuDT4  Poster Session, Bernini Room
+<div>
+<img src="/images/IEEE-IV2025.png">
+</div>
+
+<br>
+
 ## Oral Presentation - Nov 2024
 ---
 **International Symposium on Accident Analysis & Prevention 2024 (ISAAP2024)**<br>
