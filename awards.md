@@ -6,7 +6,8 @@ title: Awards
 
 ## Honors (Selected)
 ---
-- Aug 2024: **IEEE ITSC 2024 Travel Grant Award** 🎉
+- Apr 2025: **IEEE IV 2025 Travel Grant Award** (Over 1000USD) 🎉
+- Aug 2024: **IEEE ITSC 2024 Travel Grant Award** (Over 1000USD) 🎉
 - Oct 2023:    Merit Graduate Students of SEU
 - Aug 2023:   The 2nd Academic Forum on Digital Transportation and Smart Mobility (1st grade, Ranking 1/4)
 - Aug 2023:   The 2nd Academic Forum on Digital Transportation and Smart Mobility (1st grade, Ranking 4/4)
