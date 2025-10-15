@@ -6,7 +6,7 @@ title: Sources
 
 ## Open Source Codes
 
-### Multimodal Trajectory Prediction Toward Uncertain Motion: Global Context-Aware Hybrid Multi-Head Additive Attention Mechanisms
+### Multimodal
 ---
 **Authors: Yuzhi Chen, Yuanchang Xie, Xinyu Wang, Lei Zhao, Yajie Zou, Chen Wang**
 
