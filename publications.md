@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
-<span style="color:#8B0000">**Welcome to cite our work or contact me for collaboration!**🎉🎉 
+<span style="color:#B22222">**Welcome to cite our work or contact me for collaboration!**🎉🎉 
 <span style="color:#4682B4">y.z.chen.fhy@gmail.com</span></span>
 
 ## Journal Paper
@@ -15,13 +15,13 @@ title: Publications
 - Wang, T., **Chen, Y.**, Yan, X., Chen, J., & Li, W. [(2020)](https://doi.org/10.1155/2020/9743504). The Relationship between Bus Drivers' Improper Driving Behaviors and Abnormal Vehicle States Based on Advanced Driver Assistance Systems in Naturalistic Driving. **_Mathematical Problems in Engineering_**.
 - Wang, T., **Chen, Y.**, Yan, X., Li, W., & Shi, D. [(2020)](https://doi.org/10.1109/ACCESS.2020.3016834). Assessment of drivers’ comprehensive driving capability under man-computer cooperative driving conditions. **_IEEE Access_**, 8, 152909-152923.
 
-- (Co-supervised) Wang, T., Yu, J., **Chen, Y.**, Ma, C., Ye, X., & Chen, J. [(2023)](https://doi.org/10.1177/03611981231157716). Factors associated with the severity of motor vehicle crashes involving electric motorcycles and electric bicycles: a random parameters logit approach with heterogeneity in means. **_Transportation research record_**, 2677(8), 691-704.
-- (Co-supervised) Wang, T., Chen, B., **Chen, Y.**, Deng, S., & Chen, J. [(2022)](https://doi.org/10.1155/2022/1191239). Traffic Risk Assessment Based on Warning Data. **_Journal of Advanced Transportation_**, 2022.
+- <span style="color:#696969">**(Co-supervised)**</span> Wang, T., Yu, J., **Chen, Y.**, Ma, C., Ye, X., & Chen, J. [(2023)](https://doi.org/10.1177/03611981231157716). Factors associated with the severity of motor vehicle crashes involving electric motorcycles and electric bicycles: a random parameters logit approach with heterogeneity in means. **_Transportation research record_**, 2677(8), 691-704.
+- <span style="color:#696969">**(Co-supervised)**</span> Wang, T., Chen, B., **Chen, Y.**, Deng, S., & Chen, J. [(2022)](https://doi.org/10.1155/2022/1191239). Traffic Risk Assessment Based on Warning Data. **_Journal of Advanced Transportation_**, 2022.
 
-- 🎉(Collaborative) Zhao, L., Zhou, W., Xu, S., **Chen, Y.**, & Wang, C. [(2024)](https://doi.org/10.1016/j.trc.2024.104974). Multi-agent trajectory prediction at unsignalized intersections: An improved generative adversarial network accounting for collision avoidance behaviors. **_Transportation Research Part C: Emerging Technologies_**, 171, 104974. (IF=7.9, CiteScore=15.9, Transportation Rank=9/152)
-- (Collaborative) Zhou, W., Zhao, L., Huang, H., **Chen, Y.**, Xu, S., & Wang, C. [(2023)](https://doi.org/10.1016/j.engappai.2023.105865). Automatic waste detection with few annotated samples: improving waste management efficiency. **_Engineering Applications of Artificial Intelligence_**, 120, 105865.
-- (Collaborative) Liu, Y., Wang, C., Xu, S., Zhou, W., & **Chen, Y.** [(2023)](https://doi.org/10.1007/s00521-023-08519-8). Multi-weighted graph 3D convolution network for traffic prediction. **_Neural Computing and Applications_**, 35(20), 15221-15237.
-- (Collaborative) Yuan, Q., Xu, X., Wang, T., & **Chen, Y.** [(2022)](https://doi.org/10.1108/JICV-04-2022-0012). Investigating safety and liability of autonomous vehicles: Bayesian random parameter ordered probit model analysis. **_Journal of intelligent and connected vehicles_**, 5(3), 199-205.
+- 🎉<span style="color:#696969">**(Collaborative)**</span> Zhao, L., Zhou, W., Xu, S., **Chen, Y.**, & Wang, C. [(2024)](https://doi.org/10.1016/j.trc.2024.104974). Multi-agent trajectory prediction at unsignalized intersections: An improved generative adversarial network accounting for collision avoidance behaviors. **_Transportation Research Part C: Emerging Technologies_**, 171, 104974. (IF=7.9, CiteScore=15.9, Transportation Rank=9/152)
+- <span style="color:#696969">**(Collaborative)**</span> Zhou, W., Zhao, L., Huang, H., **Chen, Y.**, Xu, S., & Wang, C. [(2023)](https://doi.org/10.1016/j.engappai.2023.105865). Automatic waste detection with few annotated samples: improving waste management efficiency. **_Engineering Applications of Artificial Intelligence_**, 120, 105865.
+- <span style="color:#696969">**(Collaborative)**</span> Liu, Y., Wang, C., Xu, S., Zhou, W., & **Chen, Y.** [(2023)](https://doi.org/10.1007/s00521-023-08519-8). Multi-weighted graph 3D convolution network for traffic prediction. **_Neural Computing and Applications_**, 35(20), 15221-15237.
+- <span style="color:#696969">**(Collaborative)**</span> Yuan, Q., Xu, X., Wang, T., & **Chen, Y.** [(2022)](https://doi.org/10.1108/JICV-04-2022-0012). Investigating safety and liability of autonomous vehicles: Bayesian random parameter ordered probit model analysis. **_Journal of intelligent and connected vehicles_**, 5(3), 199-205.
 
  <br>
 
@@ -33,9 +33,9 @@ title: Publications
 - **Chen, Y.**, Xie, Y., Wang, C., Xu, S., & Wu, L. [(2024)](https://doi.org/10.1109/ITSC58415.2024.10919910). Temporal Dependency of Forward Collision Warning Effectiveness: A Functional Framework for Speed Profiles After Receiving Warnings. In **_2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)_** (pp. 1793-1798). Edmonton, AB, Canada, IEEE.
 - **Chen, Y.**, Wang, T., Xie, L., Shi, D., & Wang, C. [(2020)](https://ascelibrary.org/doi/abs/10.1061/9780784483053.372). Safety Evaluation of Bus Running State Based on Multi-Source Data. In **_CICTP 2020_** (pp. 4473-4485).
 
--  (Co-supervised) Lu, C., **Chen, Y.** & Wang, C. [(2025)](https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/22800). Adaptive Cruise Control Based on Variable Universe of Discourse Fuzzy Proportional-Integral-Derivative Control. In **_the 104th Transportation Research Board Annual Meeting (TRB 2025)_** . Washington D.C., USA. (TRBAM-25-01934)
--  (Co-supervised) Cheng, L., **Chen, Y.** & Wang, C. [(2025)](https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/22800). A Demonstration-Guided Reinforcement Learning Framework for Autonomous Vehicles Safety-Critical Scenario Generation. In **_the 104th Transportation Research Board Annual Meeting (TRB 2025)_** . Washington D.C., USA. (TRBAM-25-01936)
--  (Co-supervised) Shi, D., Wang, T., **Chen, Y.**, & Liu, C. [(2021)](https://doi.org/10.1007/978-981-19-2259-6_88). Exploring the effects of request time, secondary task, and take-over mode on take-over performance. In **_International Conference on Intelligent Transportation Engineering_** (pp. 1001-1014). Singapore: Springer Nature Singapore.
+-  <span style="color:#696969">**(Co-supervised)**</span> Lu, C., **Chen, Y.** & Wang, C. [(2025)](https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/22800). Adaptive Cruise Control Based on Variable Universe of Discourse Fuzzy Proportional-Integral-Derivative Control. In **_the 104th Transportation Research Board Annual Meeting (TRB 2025)_** . Washington D.C., USA. (TRBAM-25-01934)
+-  <span style="color:#696969">**(Co-supervised)**</span> Cheng, L., **Chen, Y.** & Wang, C. [(2025)](https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/22800). A Demonstration-Guided Reinforcement Learning Framework for Autonomous Vehicles Safety-Critical Scenario Generation. In **_the 104th Transportation Research Board Annual Meeting (TRB 2025)_** . Washington D.C., USA. (TRBAM-25-01936)
+-  <span style="color:#696969">**(Co-supervised)**</span> Shi, D., Wang, T., **Chen, Y.**, & Liu, C. [(2021)](https://doi.org/10.1007/978-981-19-2259-6_88). Exploring the effects of request time, secondary task, and take-over mode on take-over performance. In **_International Conference on Intelligent Transportation Engineering_** (pp. 1001-1014). Singapore: Springer Nature Singapore.
 
 
 <br>
