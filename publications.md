@@ -3,8 +3,8 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
-<span style="color:red">**Welcome to cite our work or contact me for collaboration!**🎉🎉 
-<span style="color:blue">y.z.chen.fhy@gmail.com</span></span>
+<span style="color:#8B0000">**Welcome to cite our work or contact me for collaboration!**🎉🎉 
+<span style="color:#4682B4">y.z.chen.fhy@gmail.com</span></span>
 
 ## Journal Paper
 ---
