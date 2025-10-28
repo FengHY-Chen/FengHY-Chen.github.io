@@ -6,7 +6,7 @@ title: Sources
 
 ## Open Source Codes
 
-### Multimodal
+### GContextFormer: Global context-aware hybrid multi-head attention framework with scaled additive aggregation for multimodal trajectory prediction
 ---
 **Authors: Yuzhi Chen, Yuanchang Xie, Xinyu Wang, Lei Zhao, Yajie Zou, Chen Wang**
 
@@ -15,7 +15,7 @@ title: Sources
 The model source code, model weights, processed data and reproducible results will be made publicly available once the paper has been published.
 
 <div>
-<img src="/images/TRB2024-poster.png">
+<img src="/images/GContextFormer.png">
 </div>
 
 <br>
