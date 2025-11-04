@@ -6,6 +6,7 @@ title: Awards
 
 ## Honors (Selected)
 ---
+- Oct 2025: **FTTE Future Stars Award**🎉
 - Apr 2025: **IEEE IV 2025 Travel Grant Award** (Over 1000 USD) 🎉
 - Aug 2024: **IEEE ITSC 2024 Travel Grant Award** (Over 1000 USD) 🎉
 - Oct 2023:    Merit Graduate Students of SEU
