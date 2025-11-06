@@ -35,10 +35,11 @@ title: Awards
 
 ## Services
 ---
-- March 2021 - Present：China Highway and Transportation Society, Student Membership
-- March 2021 - Present：IEEE, Student Membership
-- January 2022 - Present：IEEE ITSS, Student Membership
-- March 2025 - Present：China Society of Automotive Engineers, Student Membership
+- Nov. 2025 - present: Member of the Youth Editorial Board, Digital Transportation Safety
+- Mar. 2021 - Present: Student Member, China Highway and Transportation Society
+- Mar. 2021 - Present: Student Member, IEEE
+- Jan. 2022 - Present: Student Member, IEEE Intelligent Transportation Systems Society
+- Mar. 2025 - Present: Student Member, China Society of Automotive Engineers
 <br><br>
 <table>
   <tr>
