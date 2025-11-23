@@ -35,7 +35,7 @@ title: Awards
 
 ## Services
 ---
-- Nov. 2025 - present: Member of the Youth Editorial Board, Digital Transportation Safety
+- Nov. 2025 - present: Member of the Youth Editorial Board, Digital Transportation and Safety
 - Mar. 2021 - Present: Student Member, China Highway and Transportation Society
 - Mar. 2021 - Present: Student Member, IEEE
 - Jan. 2022 - Present: Student Member, IEEE Intelligent Transportation Systems Society
