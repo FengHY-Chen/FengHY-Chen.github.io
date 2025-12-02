@@ -6,7 +6,7 @@ title: Activities
 
 ## 2025 Master's 9th Academic Session
 ---
-### **Theme: Intellectual Odyssey: Discovery in Dialogue**<br>
+### **Intellectual Odyssey: Discovery in Dialogue**<br>
 Date: Nov 30, 2025<br>
 Host: Yuzhi Chen<br>
 Participants: Tingyu Cui, Xiyu Jin, Haoyang Sun, Xuhong Wang<br>
@@ -18,7 +18,7 @@ Participants: Tingyu Cui, Xiyu Jin, Haoyang Sun, Xuhong Wang<br>
 
 ## 2025 Master's 8th Academic Session
 ---
-### **Theme: Four Master's Rookies Raid the PhD Cave**<br>
+### **Four Master's Rookies Raid the PhD Cave**<br>
 Date: Nov 22, 2025<br>
 Host: Yuzhi Chen<br>
 Participants: Tingyu Cui, Xiyu Jin, Haoyang Sun, Xuhong Wang<br>
