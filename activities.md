@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /activities/index.html
-title: News
+title: Activities
 ---
 
 ## 2025 Master's 9th Academic Session
