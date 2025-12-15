@@ -4,6 +4,18 @@ permalink: /activities/index.html
 title: Activities
 ---
 
+## 2025 Master's 11th Academic Session
+---
+### **Seminar by Day, Serenade by Night**<br>
+Date: Dec 12, 2025<br>
+Host: Prof. Chen Wang, Yuzhi Chen<br>
+Participants: Tingyu Cui, Xuhong Wang, Haoyang Sun, Xiyu Jin, Siyuan Huang<br>
+<div>
+<img src="/images/activities/2025 Master's 11th Session_20251122.jpg">
+</div>
+
+<br>
+
 ## 2025 Master's 9th Academic Session
 ---
 ### **Intellectual Odyssey: Discovery in Dialogue**<br>
@@ -11,7 +23,7 @@ Date: Nov 30, 2025<br>
 Host: Yuzhi Chen<br>
 Participants: Tingyu Cui, Xiyu Jin, Haoyang Sun, Xuhong Wang<br>
 <div>
-<img src="/images/activities/2025 Master's  9th Session_20251130.jpg">
+<img src="/images/activities/2025 Master's 9th Session_20251130.jpg">
 </div>
 
 <br>
@@ -23,8 +35,9 @@ Date: Nov 22, 2025<br>
 Host: Yuzhi Chen<br>
 Participants: Tingyu Cui, Xiyu Jin, Haoyang Sun, Xuhong Wang<br>
 <div>
-<img src="/images/activities/2025 Master's  8th Session_20251122.jpg">
+<img src="/images/activities/2025 Master's 8th Session_20251122.jpg">
 </div>
 
 <br>
+
 
