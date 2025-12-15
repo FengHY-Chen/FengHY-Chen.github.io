@@ -11,7 +11,7 @@ Date: Dec 12, 2025<br>
 Host: Prof. Chen Wang, Yuzhi Chen<br>
 Participants: Tingyu Cui, Xuhong Wang, Haoyang Sun, Xiyu Jin, Siyuan Huang<br>
 <div>
-<img src="/images/activities/2025 Master's 11th Session_20251122.jpg">
+<img src="/images/activities/2025 Master's 11th Session_20251212.jpg">
 </div>
 
 <br>
