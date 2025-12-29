@@ -63,6 +63,11 @@ title: Awards
     <td>Reviewer</td>
   </tr>
   <tr>
+    <td>International Journal of Human-Computer Interaction</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
     <td>Information Science</td>
     <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
     <td>Reviewer</td>
