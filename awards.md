@@ -42,7 +42,7 @@ group: navigation
 
 ## Services {#services}
 ---
-- Nov. 2025 - present: Member of the Youth Editorial Board, Digital Transportation and Safety
+- Apr. 2025 - Apr. 2027: Member of the Youth Editorial Board, Digital Transportation and Safety
 - Mar. 2021 - Present: Student Member, China Highway and Transportation Society
 - Mar. 2021 - Present: Student Member, IEEE
 - Jan. 2022 - Present: Student Member, IEEE Intelligent Transportation Systems Society
@@ -110,6 +110,11 @@ group: navigation
     <td>Reviewer</td>
   </tr>
   <tr>
+    <td>Traffic Injury Prevention</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q2</td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
     <td>IET Image Processing</td>
     <td style="padding-left: 0px; padding-right: 20px;">JCR Q2</td>
     <td>Reviewer</td>
@@ -136,6 +141,11 @@ group: navigation
   </tr>
   <tr>
     <td>COTA CICTP</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
+    <td>Reviewer</td>
+  </tr>
+  <tr>
+    <td>World Transport Convention</td>
     <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
     <td>Reviewer</td>
   </tr>
