@@ -8,8 +8,8 @@ group: navigation
 <div style="margin-bottom: 20px; padding: 10px; background-color: #f9f9f9; border-radius: 5px;">
   <strong>Quick Links:</strong> 
   <a href="#honors-selected">Honors</a> | 
-  <a href="#scholarships">Scholarships</a> | 
-  <a href="#competitions">Competitions</a>
+  <a href="#certificates<">Certificates<</a> | 
+  <a href="#services">Services</a>
 </div>
 
 ## Honors (Selected)  {#honors-selected}
