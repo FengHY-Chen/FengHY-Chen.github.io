@@ -2,11 +2,19 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
+group: navigation
 ---
 <span style="color:#B22222">**Welcome to cite our work or contact me for collaboration!**🎉🎉 
 <span style="color:#4682B4">y.z.chen.fhy@gmail.com</span></span>
 
-## Journal Paper
+<div style="margin-bottom: 20px; padding: 10px; background-color: #f9f9f9; border-radius: 5px;">
+  <strong>Quick Links:</strong> 
+  <a href="#journal_paper">Journal Paper</a> | 
+  <a href="#conference_paper">Conference Paper</a> | 
+  <a href="#patents_granted">Patents (Granted)</a>
+</div>
+
+## Journal Paper {#journal_paper}
 ---
 - 🏆 **Chen, Y.**, Xie, Y., Wang, C., Yang, L., Zheng, N., & Wu, L. [(2025)](https://doi.org/10.1016/j.amar.2025.100370). Time-dependent effect of advanced driver assistance systems on driver behavior based on connected vehicle data. **_Analytic Methods in Accident Research_**, 100370. (<span style="color:red; font-weight:bold;">Highly Cited</span>, IF=12.6, CiteScore=23.3, Transportation Rank=3/152)
 - 🎉**Chen, Y.**, Wang, C., & Xie, Y. [(2024)](https://doi.org/10.1016/j.amar.2024.100333). Modeling the risk of single-vehicle run-off-road crashes on horizontal curves using connected vehicle data. **_Analytic Methods in Accident Research_**, 43, 100333. (IF=12.5, CiteScore=22.1, Transportation Rank=2/152)
@@ -25,7 +33,7 @@ title: Publications
 
  <br>
 
-## Conference Paper
+## Conference Paper {#conference_paper}
 ---
 - **Chen, Y.**, Lu, C., Xie, Y., Xu, S., Wu, M., & Wang, C. [(2026)](https://its.papercept.net/conferences/scripts/abstract.pl?ConfID=91&Number=829). VUD-FC: A Heterogeneous Behavior-Oriented Adaptive Control Approach Using Variable Universe of Discourse Fuzzy Strategy. In **_2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)_** . Gold Coast, Australia, IEEE. (Accepted)
 - **Chen, Y.**, Xie, Y., Xu, S., Zhao, L., & Wang, C. [(2025)](https://doi.org/10.1109/IV64158.2025.11097600). Trade-Offs Between Safety and Volatility in Driving Interactions: Evidence from A Connected Vehicle Pilot Study. In **_2025 IEEE Intelligent Vehicles Symposium (IV)_** (pp. 2089-2095). Cluj-Napoca, Romania, IEEE.
@@ -40,7 +48,7 @@ title: Publications
 
 <br>
 
-## Patents (Granted)
+## Patents (Granted) {#patents_granted}
 ---
 - Apr 2024: Block size determination method with regional data point rasterization (No.CN113868818B, Ranking 1/5)
 - Feb 2023: On-street parking conflict avoidance scheduling method and system based on the perception of parking availability status (No. CN113593289B, Ranking 1/5)
