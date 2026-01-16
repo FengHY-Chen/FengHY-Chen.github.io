@@ -2,9 +2,17 @@
 layout: page
 permalink: /awards/index.html
 title: Awards
+group: navigation
 ---
 
-## Honors (Selected)
+<div style="margin-bottom: 20px; padding: 10px; background-color: #f9f9f9; border-radius: 5px;">
+  <strong>Quick Links:</strong> 
+  <a href="#honors-selected">Honors</a> | 
+  <a href="#scholarships">Scholarships</a> | 
+  <a href="#competitions">Competitions</a>
+</div>
+
+## Honors (Selected)  {#honors-selected}
 ---
 - Oct 2025: **FTTE Future Stars Award**🎉
 - Apr 2025: **IEEE IV 2025 Travel Grant Award** (Over 1000 USD) 🎉
@@ -25,7 +33,7 @@ title: Awards
 
 <br>
 
-## Certificates
+## Certificates {#certificates}
 ---
 - Oct 2019:  "Big Data Analyst (Advanced)", Special technical certificate of the Ministry of Industry and Information Technology (No. 16138670).
 - Sep 2016:  National Computer Rank Examination Certificate of Level 2 (No.26463210768401)
@@ -33,7 +41,7 @@ title: Awards
 
 <br>
 
-## Services
+## Services {#services}
 ---
 - Nov. 2025 - present: Member of the Youth Editorial Board, Digital Transportation and Safety
 - Mar. 2021 - Present: Student Member, China Highway and Transportation Society
