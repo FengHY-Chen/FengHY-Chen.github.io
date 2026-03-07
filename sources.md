@@ -13,8 +13,4 @@ title: Sources
 **Linking to code** : Awaiting release...
 
 The model source code, model weights, processed data and reproducible results will be made publicly available once the paper has been published.
-
-#<div>
-#<img src="/images/GContextFormer.png">
-#</div>
 <br>
