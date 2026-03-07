@@ -6,7 +6,7 @@ title: Sources
 
 ## Open Source Codes
 
-### GContextFormer: Global context-aware hybrid multi-head attention framework with scaled additive aggregation for multimodal trajectory prediction
+### Consensus-Guided Trajectory Prediction: Mitigating Mode Suppression via Scaled Additive Attention
 ---
 **Authors: Yuzhi Chen, Yuanchang Xie, Xinyu Wang, Lei Zhao, Yajie Zou, Chen Wang**
 
@@ -14,8 +14,7 @@ title: Sources
 
 The model source code, model weights, processed data and reproducible results will be made publicly available once the paper has been published.
 
-<div>
-<img src="/images/GContextFormer.png">
-</div>
-
+#<div>
+#<img src="/images/GContextFormer.png">
+#</div>
 <br>
