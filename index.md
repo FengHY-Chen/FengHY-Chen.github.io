@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://FengHY-Chen.github.io/chenyuzhi.jpg" class="floatpic" width="6000" height="4000">
 
-**Yuzhi Chen (陈芋志)** received the master’s degree in transportation engineering with Guilin University of Electronic Technology. He is currently pursuing a Ph.D. degree in Communication and Transportation Engineering at Southeast University, under the supervision of <a href="https://trmetagroup.github.io/team/ChenWang" style="color:#4682B4; font-weight:bold;">Prof. Chen Wang</a> and <a href="https://www.uml.edu/engineering/civil-environmental/faculty/xie-yuanchang.aspx" style="color:#4682B4; font-weight:bold;">Prof. Yuanchang Xie</a>. His research interests include intelligent transportation systems, connected and automated driving, crash risk measure, risky driving behavior and safety, big data mining and analysis.
+**Yuzhi Chen (陈芋志)** received the master’s degree in transportation engineering with Guilin University of Electronic Technology. He is currently pursuing a Ph.D. degree in Communication and Transportation Engineering at Southeast University, under the supervision of <a href="https://trmetagroup.github.io/team/ChenWang" style="color:#0C559A; font-weight:bold;">Prof. Chen Wang</a> and <a href="https://www.uml.edu/engineering/civil-environmental/faculty/xie-yuanchang.aspx" style="color:#0C559A; font-weight:bold;">Prof. Yuanchang Xie</a>. His research interests include intelligent transportation systems, connected and automated driving, crash risk measure, risky driving behavior and safety, big data mining and analysis.
 
-He has received <span style="color:#4682B4; font-weight:bold;">219 citations</span>, with an h-index / i10-index of <span style="color:#4682B4; font-weight:bold;">10 / 10</span> (Google Scholar). He also serves as a Young Editorial Board Member of Digital Transportation and Safety, and as a reviewer for International journals including Accident Analysis and Prevent, IEEE TITS, IEEE TVT, International Journal of Human-Computer Interaction, Information Science, Applied Soft Computing Journal, Engineering Applications of Artificial Intelligence, Neural Computing and Applications, The Journal of Supercomputing, COTA CICTP, TRB,IET Intelligent Transport Systems, and IET Image Processing. He has completed <span style="color:#4682B4; font-weight:bold;">more than 200 review articles</span>.
+He has received <span style="color:#0C559A; font-weight:bold;">219 citations</span>, with an <span style="color:#0C559A; font-weight:bold;">h-index/i10-index of 10/10</span> (Google Scholar). He also serves as a Young Editorial Board Member of Digital Transportation and Safety, and as a reviewer for International journals including Accident Analysis and Prevent, IEEE TITS, IEEE TVT, International Journal of Human-Computer Interaction, Information Science, Applied Soft Computing Journal, Engineering Applications of Artificial Intelligence, Neural Computing and Applications, The Journal of Supercomputing, COTA CICTP, TRB,IET Intelligent Transport Systems, and IET Image Processing. He has completed <span style="color:#0C559A; font-weight:bold;">more than 200 review articles</span>.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *y.z.chen.fhy@gmail.com*
 <br>
@@ -16,13 +16,13 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Academic Background
 ---
 - **PhD: Communication and Transportation Engineering**, (2022-), Southeast University  
-  Advisors: <a href="https://trmetagroup.github.io/team/ChenWang" style="color:#4682B4; font-weight:bold;">Prof. Chen Wang</a> & <a href="https://www.uml.edu/engineering/civil-environmental/faculty/xie-yuanchang.aspx" style="color:#4682B4; font-weight:bold;">Prof. Yuanchang Xie</a>
+  Advisors: <a href="https://trmetagroup.github.io/team/ChenWang" style="color:#0C559A; font-weight:bold;">Prof. Chen Wang</a> & <a href="https://www.uml.edu/engineering/civil-environmental/faculty/xie-yuanchang.aspx" style="color:#0C559A; font-weight:bold;">Prof. Yuanchang Xie</a>
 
 - **MS: Transportation Engineering**, (2019–2022), Guilin University of Electronic Technology  
-  Advisors: <a href="https://www.guet.edu.cn/gra/2025/0108/c8981a132794/page.htm" style="color:#4682B4; font-weight:bold;">Prof. Tao Wang</a> & <a href="https://jty.njfu.edu.cn/szdw/azc/js9802/20200628/i175911.html" style="color:#4682B4; font-weight:bold;">Xingchen Yan</a>
+  Advisors: <a href="https://www.guet.edu.cn/gra/2025/0108/c8981a132794/page.htm" style="color:#0C559A; font-weight:bold;">Prof. Tao Wang</a> & <a href="https://jty.njfu.edu.cn/szdw/azc/js9802/20200628/i175911.html" style="color:#0C559A; font-weight:bold;">Xingchen Yan</a>
 
 - **BS: Traffic Engineering**, (2015–2019), Yangzhou University  
-  Advisor: <a href="https://jgxy.yzu.edu.cn/info/1026/3109.htm" style="color:#4682B4; font-weight:bold;">Prof. Shejun Deng</a>
+  Advisor: <a href="https://jgxy.yzu.edu.cn/info/1026/3109.htm" style="color:#0C559A; font-weight:bold;">Prof. Shejun Deng</a>
 
 <br>
 
