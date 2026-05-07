@@ -15,8 +15,8 @@ group: navigation
 ---
 - Mar 2026: **International Exhibition of Inventions Geneva** (Silver Medal)🎉
 - Oct 2025: **FTTE Future Stars Award**🎉
-- Apr 2025: **IEEE IV 2025 Travel Grant Award** (Over 1000 USD) 🎉
-- Aug 2024: **IEEE ITSC 2024 Travel Grant Award** (Over 1000 USD) 🎉
+- Apr 2025: **IEEE IV 2025 Travel Grant Award**🎉
+- Aug 2024: **IEEE ITSC 2024 Travel Grant Award**🎉
 - Oct 2023:    Merit Graduate Students of SEU
 - Aug 2023:   The 2nd Academic Forum on Digital Transportation and Smart Mobility (1st grade, Ranking 1/4)
 - Aug 2023:   The 2nd Academic Forum on Digital Transportation and Smart Mobility (1st grade, Ranking 4/4)
