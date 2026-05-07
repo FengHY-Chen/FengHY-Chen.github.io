@@ -13,6 +13,7 @@ group: navigation
 
 ## Honors (Selected)  {#honors-selected}
 ---
+- Mar 2026: International Exhibition of Inventions Geneva (Silver Medal，Ranking 5/9)🎉
 - Oct 2025: **FTTE Future Stars Award**🎉
 - Apr 2025: **IEEE IV 2025 Travel Grant Award** (Over 1000 USD) 🎉
 - Aug 2024: **IEEE ITSC 2024 Travel Grant Award** (Over 1000 USD) 🎉
