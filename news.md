@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /news/index.html
-title: News
+title: Presentations
 ---
 
 ## Oral Presentation - Jun 2025
