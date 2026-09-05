@@ -49,102 +49,162 @@ group: navigation
 - Jan. 2022 - Present: Student Member, IEEE Intelligent Transportation Systems Society
 - Mar. 2025 - Present: Student Member, China Society of Automotive Engineers
 <br><br>
+
 <table>
   <tr>
     <td><strong>【Jounal】</strong></td>
     <td style="padding-left: 0px; padding-right: 20px;"> </td>
     <td> </td>
   </tr>
+
   <tr>
     <td>Accident Analysis and Prevention</td>
     <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>29</td>
     <td>Reviewer</td>
   </tr>
-  <tr>
-    <td>IEEE Transactions on Intelligent Transportation Systems</td>
-    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
-    <td>Reviewer</td>
-  </tr>
-  <tr>
-    <td>IEEE Transactions on Vehicular Technology</td>
-    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
-    <td>Reviewer</td>
-  </tr>
-  <tr>
-    <td>International Journal of Human-Computer Interaction</td>
-    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
-    <td>Reviewer</td>
-  </tr>
-  <tr>
-    <td>Information Science</td>
-    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
-    <td>Reviewer</td>
-  </tr>
+
   <tr>
     <td>Applied Soft Computing Journal</td>
     <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>01</td>
     <td>Reviewer</td>
   </tr>
+
   <tr>
     <td>Engineering Applications of Artificial Intelligence</td>
     <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>26</td>
     <td>Reviewer</td>
   </tr>
+
+  <tr>
+    <td>International Journal of Human-Computer Interaction</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>01</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>Information Science</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>01</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>IEEE Transactions on Intelligent Transportation Systems</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>03</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>IEEE Transactions on Vehicular Technology</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>00</td>
+    <td>Reviewer</td>
+  </tr>
+  
+  <tr>
+    <td>IIEEE Intelligent Transportation Systems Magazine</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>01</td>
+    <td>Reviewer</td>
+  </tr>
+
   <tr>
     <td>IET Intelligent Transport Systems</td>
     <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>10</td>
     <td>Reviewer</td>
   </tr>
   <tr>
-    <td>Scientific Reports</td>
-    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
-    <td>Reviewer</td>
-  </tr>
-  <tr>
-    <td>Neural Computing and Applications</td>
-    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
-    <td>Reviewer</td>
-  </tr>
-  <tr>
-    <td>IEEE Access</td>
-    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
-    <td>Reviewer</td>
-  </tr>
-  <tr>
-    <td>Transportation Research Record</td>
-    <td style="padding-left: 0px; padding-right: 20px;">JCR Q2</td>
-    <td>Reviewer</td>
-  </tr>
-  <tr>
-    <td>Traffic Injury Prevention</td>
-    <td style="padding-left: 0px; padding-right: 20px;">JCR Q2</td>
-    <td>Reviewer</td>
-  </tr>
+
   <tr>
     <td>IET Image Processing</td>
     <td style="padding-left: 0px; padding-right: 20px;">JCR Q2</td>
+    <td>18</td>
     <td>Reviewer</td>
   </tr>
+
+  <tr>
+    <td>IEEE Access</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>83</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>Journal of Urban Management</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>01</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>Neural Computing and Applications</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>08</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>Scientific Reports</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>01</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>Transportation Research Record</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q2</td>
+    <td>07</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>Traffic Injury Prevention</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q2</td>
+    <td>03</td>
+    <td>Reviewer</td>
+  </tr>
+
+
   <tr>
     <td> <br><strong>【Conference】</strong></td>
     <td style="padding-left: 0px; padding-right: 20px;"> </td>
     <td> </td>
   </tr>
+
   <tr>
-    <td>TRB</td>
+    <td>TRB Annual Meeting</td>
     <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
+    <td>30</td>
     <td>Reviewer</td>
   </tr>
+
   <tr>
     <td>IEEE ITSC</td>
     <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
+    <td>10</td>
     <td>Reviewer</td>
   </tr>
+
   <tr>
     <td>IEEE IV</td>
     <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
+    <td>03</td>
     <td>Reviewer</td>
   </tr>
+
+  <tr>
+    <td>IEEE ICVES</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
+    <td>03</td>
+    <td>Reviewer</td>
+  </tr>
+
   <tr>
     <td>COTA CICTP</td>
     <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
