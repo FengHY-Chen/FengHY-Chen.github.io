@@ -50,7 +50,7 @@ group: navigation
 - Mar. 2025 - Present: Student Member, China Society of Automotive Engineers
 <br><br>
 
-<table>
+
   <tr>
     <td><strong>【Jounal】</strong></td>
     <td style="padding-left: 0px; padding-right: 20px;"> </td>
@@ -215,6 +215,6 @@ group: navigation
     <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
     <td>Reviewer</td>
   </tr>
-</table>
+
 
 <br>
