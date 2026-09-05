@@ -207,14 +207,14 @@ group: navigation
   <tr>
     <td>COTA CICTP</td>
     <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
-    <td>N/A</td>
+    <td> N/A  </td>
     <td>Reviewer</td>
   </tr>
 
   <tr>
     <td>World Transport Convention</td>
     <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
-    <td>N/A</td>
+    <td> N/A  </td>
     <td>Reviewer</td>
   </tr>
 </table>
