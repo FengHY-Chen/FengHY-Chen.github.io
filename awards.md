@@ -50,7 +50,7 @@ group: navigation
 - Mar. 2025 - Present: Student Member, China Society of Automotive Engineers
 <br><br>
 
-
+<table>
   <tr>
     <td><strong>【Jounal】</strong></td>
     <td style="padding-left: 0px; padding-right: 20px;"> </td>
@@ -105,7 +105,7 @@ group: navigation
     <td>00</td>
     <td>Reviewer</td>
   </tr>
-  
+
   <tr>
     <td>IIEEE Intelligent Transportation Systems Magazine</td>
     <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
@@ -119,7 +119,6 @@ group: navigation
     <td>10</td>
     <td>Reviewer</td>
   </tr>
-  <tr>
 
   <tr>
     <td>IET Image Processing</td>
@@ -215,6 +214,6 @@ group: navigation
     <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
     <td>Reviewer</td>
   </tr>
-
+</table>
 
 <br>
