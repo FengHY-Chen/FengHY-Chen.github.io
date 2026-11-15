@@ -108,7 +108,6 @@ group: navigation
   <tr>
     <td>IET Intelligent Transport Systems</td>
     <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
-    <td>10</td>
     <td>Reviewer</td>
   </tr>
 
