@@ -1,0 +1,222 @@
+---
+layout: page
+permalink: /awards/index.html
+title: Awards
+group: navigation
+---
+<div style="margin-bottom: 20px; padding: 10px; background-color: #f9f9f9; border-radius: 5px;">
+  <strong>Quick Links:</strong> 
+  <a href="#honors-selected">Honors</a> | 
+  <a href="#certificates">Certificates</a> | 
+  <a href="#services">Services</a>
+</div>
+
+## Honors (Selected)  {#honors-selected}
+---
+- Mar 2026: **International Exhibition of Inventions Geneva** (Silver Medal)🎉
+- Oct 2025: **FTTE Future Stars Award**🎉
+- Apr 2025: **IEEE IV 2025 Travel Grant Award**🎉
+- Aug 2024: **IEEE ITSC 2024 Travel Grant Award**🎉
+- Oct 2023:    Merit Graduate Students of SEU
+- Aug 2023:   The 2nd Academic Forum on Digital Transportation and Smart Mobility (1st grade, Ranking 1/4)
+- Aug 2023:   The 2nd Academic Forum on Digital Transportation and Smart Mobility (1st grade, Ranking 4/4)
+- May 2022:  **Excellent Graduate Students** of Guangxi Province (No. 2022YB0567)
+- Jul 2022:     **Excellent Master Theses** of GUET
+- Jun 2022:    Alumni Class Convenor of GUET
+- Apr 2022:   Excellent Postgraduate Graduates of GUET
+- Mar 2022:   Academic Star of GUET
+- Dec 2021:   **National Scholarship for Graduate Students** (No. SSY202130118)
+- Dec 2020:   **National Scholarship for Graduate Students** (No. SSY202030296)
+- Jul 2018:     The 3th National Innovation and Entrepreneurship Competition of Intelligent Transportation for College Students (3st grade)
+- Apr 2018:   "TransStar"-The 3rd Jiangsu Competition of Transport Science and Technology for Students (2st grade)
+- Excellent Student Cadre of YZU; Outstanding Volunteers of YZU, Excellent League Member of YZU 
+
+<br>
+
+## Certificates {#certificates}
+---
+- Oct 2019:  "Big Data Analyst (Advanced)", Special technical certificate of the Ministry of Industry and Information Technology (No. 16138670).
+- Sep 2016:  National Computer Rank Examination Certificate of Level 2 (No.26463210768401)
+- Jun 2016:  Computer Rank Examination Certificate of Higher Education in Jiangsu Province of Level 2 (No.2016Q1111711625300614)
+
+<br>
+
+## Services {#services}
+---
+- Apr. 2025 - Apr. 2027: Member of the Youth Editorial Board, Digital Transportation and Safety
+- Mar. 2021 - Present: Student Member, China Highway and Transportation Society
+- Mar. 2021 - Present: Student Member, IEEE
+- Jan. 2022 - Present: Student Member, IEEE Intelligent Transportation Systems Society
+- Mar. 2025 - Present: Student Member, China Society of Automotive Engineers
+<br><br>
+
+<table>
+  <tr>
+    <td><strong>【Jounal】</strong></td>
+    <td style="padding-left: 0px; padding-right: 20px;"> </td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td>Accident Analysis and Prevention</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>29</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>Applied Soft Computing Journal</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>01</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>Engineering Applications of Artificial Intelligence</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>26</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>International Journal of Human-Computer Interaction</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>01</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>Information Science</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>01</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>IEEE Transactions on Intelligent Transportation Systems</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>03</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>IEEE Transactions on Vehicular Technology</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>00</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>IIEEE Intelligent Transportation Systems Magazine</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>01</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>IET Intelligent Transport Systems</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>10</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>IET Image Processing</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q2</td>
+    <td>18</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>IEEE Access</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>83</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>Journal of Urban Management</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>01</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>Neural Computing and Applications</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>08</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>Scientific Reports</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q1</td>
+    <td>01</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>Transportation Research Record</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q2</td>
+    <td>07</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>Traffic Injury Prevention</td>
+    <td style="padding-left: 0px; padding-right: 20px;">JCR Q2</td>
+    <td>03</td>
+    <td>Reviewer</td>
+  </tr>
+
+
+  <tr>
+    <td> <br><strong>【Conference】</strong></td>
+    <td style="padding-left: 0px; padding-right: 20px;"> </td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td>TRB Annual Meeting</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
+    <td>30</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>IEEE ITSC</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
+    <td>10</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>IEEE IV</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
+    <td>03</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>IEEE ICVES</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
+    <td>03</td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>COTA CICTP</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
+    <td> N/A  </td>
+    <td>Reviewer</td>
+  </tr>
+
+  <tr>
+    <td>World Transport Convention</td>
+    <td style="padding-left: 0px; padding-right: 20px;">Conference</td>
+    <td> N/A  </td>
+    <td>Reviewer</td>
+  </tr>
+</table>
+
+<br>
